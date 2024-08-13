@@ -5,7 +5,7 @@ num = int(input("Enter a number: "))    #Take input from user
 if(num % 2 == 0): print("The given number is Even")
 else: print("The given number is odd")
 
-# 2. WAP to check if a numbe ris multible of 7 or not
+# 2. WAP to check if a number is multible of 7 or not
 
 num = int(input("Enter a number: "))
 
